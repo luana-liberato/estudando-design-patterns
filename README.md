@@ -16,12 +16,15 @@ Design parttners surge quando 4 desenvolvedores Erich, Richard, Ralph e o Jhon c
 
 Agora, o ponto é que os padrões não foram invenção desse grupo. Eles foram descobertos em diversos projetos orientado a objetos visto que são formas de resolver problemas recorrentes.
 
-## Por que estudá-los? :thinking:
+# Por que estudar Design Patterns? :thinking:
 Você já pode estar aplicando padrões sem saber; é por isso que o GoF os catalogou. Não é muito difícil chegar a soluções eficientes semelhantes para problemas recorrentes, mas às vezes ter conhecimento prévio de um padrão, sua utilidade e como aplicá-lo torna a construção da solução muito mais rápida. Portanto, conhecer padrões fornece a você um kit de ferramentas de soluções.
 
 Além disso, assim como tudo na área de tecnologia que é padronizado permite uma "linguagem comum" para todos, os padrões também tornam as soluções fáceis de serem entendidas e comunicadas - quando os envolvidos os conhecem, é claro.
 
 Se isso não foi motivo suficiente para você, saiba que pode chegar um momento em que você precise trabalhar em um projeto que valorize o uso de padrões; portanto, será necessário saber sobre eles.
+
+# Classificação dos Design Patterns
+
 
 # Referências
 - `Design Patterns // Dicionário do Programador por: Código Fonte TV`: https://www.youtube.com/watch?v=J-lHpiu-Twk
