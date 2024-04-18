@@ -24,7 +24,16 @@ Além disso, assim como tudo na área de tecnologia que é padronizado permite u
 Se isso não foi motivo suficiente para você, saiba que pode chegar um momento em que você precise trabalhar em um projeto que valorize o uso de padrões; portanto, será necessário saber sobre eles.
 
 # Classificação dos Design Patterns
+A GoF dividiu os diversos padrões coletados em 3 principais categorias:
 
+## Creational Patterns - Padrões de Criação
+Produzem mecanismos para a construção de objetos de forma flexível e com reuso de código.
+
+## Structural Patterns - Padrões Estruturais
+Tratam da relação entre objetos e como eles interagem entre si para formarem grandes objetos complexos, ou seja, explicam como montar objetos e classes em estruturas maiores.
+
+## Behavioral Patterns - Padrões Comportamentais
+Se trata da comunicação entre os objetos e assinilação das responsabilidades deles.
 
 # Referências
 - `Design Patterns // Dicionário do Programador por: Código Fonte TV`: https://www.youtube.com/watch?v=J-lHpiu-Twk
