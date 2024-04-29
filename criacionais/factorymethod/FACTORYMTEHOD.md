@@ -1,7 +1,0 @@
-- Uma classe tem um método fábrica que cria objetos.
-- Itenção: Definir uma interface para criar objetos, mas, deixar as subclasse decidirem que classe instanciar. O factory method permite adiar as instanciações para as subclasses.
-- Factory - Fábrica - Em suma, é uma operação que cria objetos.
-- Ele oculta a lógica de instanciação do código cliente. 
-- É obtido através de herança. O método fábrica pode ser criado ou sobrescrito por subclasses.
-- Dá flexibilidade ao código cliente permitindo criação de novas factories sem necessidade de alterar código já escrito, ou seja, factories já escrito. - Princípio do Aberto e Fechado.
-- Pode usar parâmetros para determinar o tipo dos objetos a serem criados ou os parâmetros a serem enviados aos objetos sendo criados, em outras palavras, repassar os parâmetros para o objeto que está sendo criado.
