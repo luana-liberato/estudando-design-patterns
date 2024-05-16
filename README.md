@@ -1,6 +1,10 @@
-<h3 Align = "center"> 
-    :construction:  Documentação em construção  :construction:
-</h3>
+<div Align = "center"> 
+
+    # Estudando Design Patterns
+    Esse repositório tem como objetivo documentar os meus estudos de Design Patterns e colaborar com os estudos de outras pessoas que buscam referências no GitHub.
+    ### :construction:  Documentação em construção  :construction:
+    
+</div>
 
 # Design Partterns - O que é?
 No português **Padrões de Projeto** esse conceito está relacionado com a arquitetura e com a engenharia de software, além disso, está intimamente ligado a programação orientada a objetos, pois se trata de padrões que devem ser aplicados em implementações com oo.
