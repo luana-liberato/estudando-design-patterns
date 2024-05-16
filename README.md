@@ -1,5 +1,3 @@
-Esse repositório tem como objetivo documentar os meus estudos de design partterns e colaborar com os estudos de outras pessoas que buscam referências no GitHub.
-
 <h3 Align = "center"> 
     :construction:  Documentação em construção  :construction:
 </h3>
