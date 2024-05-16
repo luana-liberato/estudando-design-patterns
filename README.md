@@ -1,8 +1,8 @@
 <div Align = "center"> 
 
-   # Estudando Design Patterns
-   Esse repositório tem como objetivo documentar os meus estudos de Design Patterns e colaborar com os estudos de outras pessoas que buscam referências no GitHub.
-   ### :construction:  Documentação em construção  :construction:
+# Estudando Design Patterns
+Esse repositório tem como objetivo documentar os meus estudos de Design Patterns e colaborar com os estudos de outras pessoas que buscam referências no GitHub.
+### :construction:  Documentação em construção  :construction:
     
 </div>
 
