@@ -15,7 +15,6 @@ O Factory Method fornece uma interface para criar objetos em uma superclasse (qu
 No fim, o código cliente não saberá o que está acontecendo. Ele vai tratar o que é gerado pela fábrica como a superclasse, mas não saberá necessariamente o que é o tipo de objeto.
 
 ## Características do padrão
-- É um padrão de criação;
 - Oculta a lógica de instanciação do objeto do código cliente, desclopando o código que cria do código que usa;
 - É obtido através da herança;
 - Dá flexibilidade podendo criar código novo sem mexer no código já escrito que está em consonância com o princípio do OCP;

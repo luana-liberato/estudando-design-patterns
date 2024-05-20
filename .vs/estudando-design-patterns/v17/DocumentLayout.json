@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Luana Liberato\\Documents\\GitHub\\estudando-design-patterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luana Liberato\\Documents\\GitHub\\estudando-design-patterns\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luana Liberato\\Documents\\GitHub\\estudando-design-patterns\\comportamentais\\strategy\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:comportamentais\\strategy\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luana Liberato\\Documents\\GitHub\\estudando-design-patterns\\comportamentais\\strategy\\StrategyEstrutura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:comportamentais\\strategy\\StrategyEstrutura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\Luana Liberato\\Documents\\GitHub\\estudando-design-patterns\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\Luana Liberato\\Documents\\GitHub\\estudando-design-patterns\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Luana Liberato\\Documents\\GitHub\\estudando-design-patterns\\comportamentais\\strategy\\README.md",
+              "RelativeDocumentMoniker": "comportamentais\\strategy\\README.md",
+              "ToolTip": "C:\\Users\\Luana Liberato\\Documents\\GitHub\\estudando-design-patterns\\comportamentais\\strategy\\README.md",
+              "RelativeToolTip": "comportamentais\\strategy\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAQAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-05-16T17:44:59.09Z",
+              "WhenOpened": "2024-05-20T14:04:25.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StrategyEstrutura.cs",
+              "DocumentMoniker": "C:\\Users\\Luana Liberato\\Documents\\GitHub\\estudando-design-patterns\\comportamentais\\strategy\\StrategyEstrutura.cs",
+              "RelativeDocumentMoniker": "comportamentais\\strategy\\StrategyEstrutura.cs",
+              "ToolTip": "C:\\Users\\Luana Liberato\\Documents\\GitHub\\estudando-design-patterns\\comportamentais\\strategy\\StrategyEstrutura.cs",
+              "RelativeToolTip": "comportamentais\\strategy\\StrategyEstrutura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:33:33.725Z",
               "EditorCaption": ""
             }
           ]

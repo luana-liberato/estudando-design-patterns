@@ -1,7 +1,9 @@
 using System;
 
 public class ClasseCliente {
+
     public static ClasseCriadora criacao;
+
     public static void solicitacaoDeCriacao(){
         string solicitacao = "Produto B";
 
@@ -14,6 +16,7 @@ public class ClasseCliente {
         criacao.usarProduto();
         Console.ReadLine();
     }
+
 }
 
 public abstract class ClasseCriadora {
