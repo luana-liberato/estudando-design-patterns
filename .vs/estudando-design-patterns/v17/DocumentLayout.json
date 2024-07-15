@@ -18,8 +18,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 13,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,9 +80,9 @@
               "RelativeDocumentMoniker": "comportamentais\\strategy\\README.md",
               "ToolTip": "C:\\Users\\Luana Liberato\\Documents\\GitHub\\estudando-design-patterns\\comportamentais\\strategy\\README.md",
               "RelativeToolTip": "comportamentais\\strategy\\README.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAQAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-05-20T14:04:25.065Z",
+              "WhenOpened": "2024-07-15T15:56:44.126Z",
               "EditorCaption": ""
             },
             {
@@ -41,9 +93,9 @@
               "RelativeDocumentMoniker": "comportamentais\\strategy\\StrategyEstrutura.cs",
               "ToolTip": "C:\\Users\\Luana Liberato\\Documents\\GitHub\\estudando-design-patterns\\comportamentais\\strategy\\StrategyEstrutura.cs",
               "RelativeToolTip": "comportamentais\\strategy\\StrategyEstrutura.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAABAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T13:33:33.725Z",
+              "WhenOpened": "2024-07-15T15:56:38.172Z",
               "EditorCaption": ""
             }
           ]

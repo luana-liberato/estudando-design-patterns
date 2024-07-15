@@ -5,11 +5,12 @@ public class Strategy
     public static void Main()
     {
         string estrategiaEscolhida = "Estratégia B";
-        Contexto contexto = new Contexto();
         Estrategia estrategia;
 
         if (estrategiaEscolhida == "Estratégia A") estrategia = new EstrategiaA();
         else estrategia = new EstrategiaB();
+
+        Contexto contexto = new Contexto();
 
         contexto.setEstrategia(estrategia);
         contexto.executeEstrategia("Luana é linda");

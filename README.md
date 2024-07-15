@@ -6,7 +6,7 @@ Esse repositório tem como objetivo documentar os meus estudos de Design Pattern
     
 </div>
 
-# Design Partterns - O que é?
+# Design Patterns - O que é?
 No português **Padrões de Projeto** esse conceito está relacionado com a arquitetura e com a engenharia de software, além disso, está intimamente ligado a programação orientada a objetos, pois se trata de padrões que devem ser aplicados em implementações com oo.
 
 Esses padrões se referem a soluções para problemas regulares em códigos fontes e que em muitos casos vai tornar a solução mais simples e mais fácil de ser compreendida por outros programadores justamente por serem padrões conhecidos.
