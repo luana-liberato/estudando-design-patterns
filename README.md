@@ -6,7 +6,7 @@ Esse repositório tem como objetivo documentar os meus estudos de Design Pattern
     
 </div>
 
-# Design Patterns - O que é?
+# Design Patterns - O que é? :mag:
 No português **Padrões de Projeto** esse conceito está relacionado com a arquitetura e com a engenharia de software, além disso, está intimamente ligado a programação orientada a objetos, pois se trata de padrões que devem ser aplicados em implementações com oo.
 
 Esses padrões se referem a soluções para problemas regulares em códigos fontes e que em muitos casos vai tornar a solução mais simples e mais fácil de ser compreendida por outros programadores justamente por serem padrões conhecidos.
@@ -25,7 +25,7 @@ Além disso, assim como tudo na área de tecnologia que é padronizado permite u
 
 Se isso não foi motivo suficiente para você, saiba que pode chegar um momento em que você precise trabalhar em um projeto que valorize o uso de padrões; portanto, será necessário saber sobre eles.
 
-# Classificação dos Design Patterns
+# Classificação dos Design Patterns :star:
 A GoF dividiu os diversos padrões coletados em 3 principais categorias:
 
 ### Creational Patterns - Padrões de Criação
@@ -37,6 +37,6 @@ Tratam da relação entre objetos e como eles interagem entre si para formarem g
 ### Behavioral Patterns - Padrões Comportamentais
 Se trata da comunicação entre os objetos e assinilação das responsabilidades deles.
 
-# Referências
+# Referências :book:
 - `Design Patterns // Dicionário do Programador por: Código Fonte TV`: https://www.youtube.com/watch?v=J-lHpiu-Twk
 - `Refactoring Guru`: https://refactoring.guru/pt-br/design-patterns
